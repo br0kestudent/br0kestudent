@@ -1,0 +1,5 @@
+- Hi, I’m @br0kestudent
+- I’m interested in web dev, windows application dev and mobile dev
+- I’m currently learning C and Js
+- I’m looking to collaborate on anything :)
+- How to reach me jimdalbert02@gmail.com
